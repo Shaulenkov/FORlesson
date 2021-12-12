@@ -1,0 +1,15 @@
+C:\Users\79850\Desktop\Учеба\Урок2\bin\Debug\net6.0\Урок2.exe
+C:\Users\79850\Desktop\Учеба\Урок2\bin\Debug\net6.0\Урок2.deps.json
+C:\Users\79850\Desktop\Учеба\Урок2\bin\Debug\net6.0\Урок2.runtimeconfig.json
+C:\Users\79850\Desktop\Учеба\Урок2\bin\Debug\net6.0\Урок2.dll
+C:\Users\79850\Desktop\Учеба\Урок2\bin\Debug\net6.0\ref\Урок2.dll
+C:\Users\79850\Desktop\Учеба\Урок2\bin\Debug\net6.0\Урок2.pdb
+C:\Users\79850\Desktop\Учеба\Урок2\obj\Debug\net6.0\Урок2.csproj.AssemblyReference.cache
+C:\Users\79850\Desktop\Учеба\Урок2\obj\Debug\net6.0\Урок2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79850\Desktop\Учеба\Урок2\obj\Debug\net6.0\Урок2.AssemblyInfoInputs.cache
+C:\Users\79850\Desktop\Учеба\Урок2\obj\Debug\net6.0\Урок2.AssemblyInfo.cs
+C:\Users\79850\Desktop\Учеба\Урок2\obj\Debug\net6.0\Урок2.csproj.CoreCompileInputs.cache
+C:\Users\79850\Desktop\Учеба\Урок2\obj\Debug\net6.0\Урок2.dll
+C:\Users\79850\Desktop\Учеба\Урок2\obj\Debug\net6.0\ref\Урок2.dll
+C:\Users\79850\Desktop\Учеба\Урок2\obj\Debug\net6.0\Урок2.pdb
+C:\Users\79850\Desktop\Учеба\Урок2\obj\Debug\net6.0\Урок2.genruntimeconfig.cache
